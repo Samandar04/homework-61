@@ -1,3 +1,27 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+  overflow-x: hidden;
+}
+
+a{
+  text-decoration: none;
+  
+}
+.link{
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+  font-weight: 480;
+}
+.li{
+  color: black;
+}
+.color{
+  color: black;
+}
 .App {
   text-align: center;
 }
