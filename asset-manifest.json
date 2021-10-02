@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Whats-New-/static/css/main.77240f06.chunk.css",
+    "main.js": "/Whats-New-/static/js/main.edc2ad7e.chunk.js",
+    "main.js.map": "/Whats-New-/static/js/main.edc2ad7e.chunk.js.map",
+    "runtime-main.js": "/Whats-New-/static/js/runtime-main.7eb27965.js",
+    "runtime-main.js.map": "/Whats-New-/static/js/runtime-main.7eb27965.js.map",
+    "static/css/2.fac6ff20.chunk.css": "/Whats-New-/static/css/2.fac6ff20.chunk.css",
+    "static/js/2.980b7585.chunk.js": "/Whats-New-/static/js/2.980b7585.chunk.js",
+    "static/js/2.980b7585.chunk.js.map": "/Whats-New-/static/js/2.980b7585.chunk.js.map",
+    "static/js/3.37891738.chunk.js": "/Whats-New-/static/js/3.37891738.chunk.js",
+    "static/js/3.37891738.chunk.js.map": "/Whats-New-/static/js/3.37891738.chunk.js.map",
+    "index.html": "/Whats-New-/index.html",
+    "static/css/2.fac6ff20.chunk.css.map": "/Whats-New-/static/css/2.fac6ff20.chunk.css.map",
+    "static/css/main.77240f06.chunk.css.map": "/Whats-New-/static/css/main.77240f06.chunk.css.map",
+    "static/js/2.980b7585.chunk.js.LICENSE.txt": "/Whats-New-/static/js/2.980b7585.chunk.js.LICENSE.txt",
+    "static/media/55518891_401.d493ac45.jpg": "/Whats-New-/static/media/55518891_401.d493ac45.jpg",
+    "static/media/Mo.dd196df5.jpg": "/Whats-New-/static/media/Mo.dd196df5.jpg",
+    "static/media/free-icon-facebook-174848.5aa9dd97.svg": "/Whats-New-/static/media/free-icon-facebook-174848.5aa9dd97.svg",
+    "static/media/free-icon-instagram-179328.65e05d1c.svg": "/Whats-New-/static/media/free-icon-instagram-179328.65e05d1c.svg",
+    "static/media/free-icon-twitter-1409937.6456a4ea.svg": "/Whats-New-/static/media/free-icon-twitter-1409937.6456a4ea.svg",
+    "static/media/free-icon-youtube-174883.e57613c9.svg": "/Whats-New-/static/media/free-icon-youtube-174883.e57613c9.svg",
+    "static/media/is.d1ac1aaf.jpg": "/Whats-New-/static/media/is.d1ac1aaf.jpg",
+    "static/media/logo.6ce24c58.svg": "/Whats-New-/static/media/logo.6ce24c58.svg",
+    "static/media/man1.15adc29e.jpg": "/Whats-New-/static/media/man1.15adc29e.jpg",
+    "static/media/slick-theme.css": "/Whats-New-/static/media/slick.c94f7671.ttf",
+    "static/media/tr.fb442c1c.jpg": "/Whats-New-/static/media/tr.fb442c1c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eb27965.js",
+    "static/css/2.fac6ff20.chunk.css",
+    "static/js/2.980b7585.chunk.js",
+    "static/css/main.77240f06.chunk.css",
+    "static/js/main.edc2ad7e.chunk.js"
+  ]
+}
