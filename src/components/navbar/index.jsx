@@ -25,31 +25,31 @@ function Navbar() {
                         </List>
                         <Border />
                         <List className="animate__animated animate__zoomInDown">
-                            <Link to="/" className="link">
+                            <Link to="/about" className="link">
                                 about
                             </Link>
                         </List>
                         <Border />
                         <List className="animate__animated animate__zoomInDown">
-                            <Link  to="/" className="link">
+                            <Link  to="/category" className="link">
                                 category
                             </Link>
                         </List>
                         <Border />
                         <List className="animate__animated animate__zoomInDown">
-                            <Link to="/" className="link">
+                            <Link to="/latest" className="link">
                                 latest news
                             </Link>
                         </List>
                         <Border />
                         <List className="animate__animated animate__zoomInDown">
-                            <Link to="/" className="link">
+                            <Link to="/Pages" className="link">
                                 pages
                             </Link>
                         </List>
                         <Border />
                         <List className="animate__animated animate__zoomInDown">
-                            <Link to="/" className="link">
+                            <Link to="/contact" className="link">
                                 Contact
                             </Link>
                         </List>

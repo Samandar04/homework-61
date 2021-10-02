@@ -1,0 +1,1 @@
+export const baseLink="https://ibs-school-news.herokuapp.com/api/v1/"

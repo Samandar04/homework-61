@@ -2,12 +2,13 @@ import styled from "styled-components";
 
 export const Wraper=styled.div`
 background: white;
-overflow: hidden;
+overflow: auto;
 padding: 50px 0 ;
 `
 export const Wrapcontainer=styled.div`
 width: 1200px;
 margin: auto;
+
 p{
     text-transform: capitalize;
     font-size: 30px;
@@ -22,7 +23,9 @@ export const Wrapcard1=styled.div`
 width: 31%;
 overflow: hidden;
 position: relative;
+margin-right: 10px;
 img{
+    margin-right: 10px;
     width: 100%;
     height: 100%;
 }

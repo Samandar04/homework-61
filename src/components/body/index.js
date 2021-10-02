@@ -330,13 +330,15 @@ p{
 
 `
 export const Card5card2img=styled.div`
-display: flex;
+/* display: flex; */
 
+overflow: hidden;
 
 justify-content: space-between;
 `
 export const Card5carusel=styled.div`
 width: 33%;
+z-index: 88;
 
 img{
     width: 100%;

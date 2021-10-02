@@ -3,7 +3,7 @@ import { Footercard1, Footercard1img, Footercard1text, Footercard2, Footercard2f
 
 function Footer() {
     return (
-        <Footerwrap>
+        <Footerwrap >
             <br /><br /><br />
             <Footercon>
                 <br /><br />
